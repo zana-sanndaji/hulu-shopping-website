@@ -1,0 +1,30 @@
+:root {
+  font-family: "roboto", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+body {
+  margin: auto;
+  max-width: 1400px;
+  min-height: 100vh;
+  background-color: #FFFFFF;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button,
+input,
+select {
+  font-family: inherit;
+  font-size: inherit;
+}
